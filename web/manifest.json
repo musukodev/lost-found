@@ -1,0 +1,11 @@
+{
+  "name": "Lost & Found Sekolah",
+  "short_name": "Lost & Found",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f6f0",
+  "theme_color": "#174b3b",
+  "description": "Papan barang hilang dan temuan sekolah, data dummy lokal.",
+  "orientation": "any",
+  "prefer_related_applications": false
+}
